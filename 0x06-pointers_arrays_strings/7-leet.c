@@ -66,13 +66,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-aded37b31d69.js"></script>
   
 
-  <title>alx-low_level_programming/README.md at master · Akojede70/alx-low_level_programming</title>
+  <title>alx-low_level_programming/7-leet.c at master · Akojede70/alx-low_level_programming</title>
 
 
 
     
 
-  <meta name="request-id" content="C395:11174:F88946:FEA6F5:632CBB73" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f661909f7fc49eb41b73c824168f1da338279490bd731df6e18b24fc42b0d2e0" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Ba29qZWRlNzAvYWx4LWxvd19sZXZlbF9wcm9ncmFtbWluZy90cmVlL21hc3Rlci8weDA2LXBvaW50ZXJzX2FycmF5c19zdHJpbmdzIiwicmVxdWVzdF9pZCI6IkMzOTU6MTExNzQ6Rjg4OTQ2OkZFQTZGNTo2MzJDQkI3MyIsInZpc2l0b3JfaWQiOiI3MDc3NDk1OTc5NTg2Mzk0NTU0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="c417a6b063866ca9cc7c33e748976f5cef6266c48ce55df4ebc2873ff03925db" data-turbo-transient="true" />
+  <meta name="request-id" content="C395:11174:F854A7:FE7086:632CBB63" data-turbo-transient="true" /><meta name="html-safe-nonce" content="f661909f7fc49eb41b73c824168f1da338279490bd731df6e18b24fc42b0d2e0" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Ba29qZWRlNzAvYWx4LWxvd19sZXZlbF9wcm9ncmFtbWluZy90cmVlL21hc3Rlci8weDA2LXBvaW50ZXJzX2FycmF5c19zdHJpbmdzIiwicmVxdWVzdF9pZCI6IkMzOTU6MTExNzQ6Rjg1NEE3OkZFNzA4Njo2MzJDQkI2MyIsInZpc2l0b3JfaWQiOiI3MDc3NDk1OTc5NTg2Mzk0NTU0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="b183aa627c87ff5b234d4bfb612f04f2089a3e9f3590d91ddfa8723221500afd" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:468373830" data-turbo-transient>
 
@@ -110,11 +110,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6d888bb79b072474a85f6edd6dbdf213177aae14efa1646bcddfd6cfa7a4a9a6/Akojede70/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/README.md at master · Akojede70/alx-low_level_programming" /><meta name="twitter:description" content="C Programming. Contribute to Akojede70/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/6d888bb79b072474a85f6edd6dbdf213177aae14efa1646bcddfd6cfa7a4a9a6/Akojede70/alx-low_level_programming" /><meta property="og:image:alt" content="C Programming. Contribute to Akojede70/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/README.md at master · Akojede70/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Akojede70/alx-low_level_programming" /><meta property="og:description" content="C Programming. Contribute to Akojede70/alx-low_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6d888bb79b072474a85f6edd6dbdf213177aae14efa1646bcddfd6cfa7a4a9a6/Akojede70/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/7-leet.c at master · Akojede70/alx-low_level_programming" /><meta name="twitter:description" content="C Programming. Contribute to Akojede70/alx-low_level_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/6d888bb79b072474a85f6edd6dbdf213177aae14efa1646bcddfd6cfa7a4a9a6/Akojede70/alx-low_level_programming" /><meta property="og:image:alt" content="C Programming. Contribute to Akojede70/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/7-leet.c at master · Akojede70/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Akojede70/alx-low_level_programming" /><meta property="og:description" content="C Programming. Contribute to Akojede70/alx-low_level_programming development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/94043309/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NDA0MzMwOSwicyI6OTE4NzE1NTQ3LCJjIjoyODQxODAwMTA2LCJ0IjoxNjYzODc1OTYyfQ==--0c98f2e75493ec8a339c151031382d9cb3534ec48ff48e32801166a5a63cb006" data-refresh-url="/_alive" data-session-id="6b143602f20074f762d6e1b496174d188c56896078f0afe4776e0ba4d88b38d0">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/94043309/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NDA0MzMwOSwicyI6OTE4NzE1NTQ3LCJjIjoxODQzNzQzNDU5LCJ0IjoxNjYzODc1OTQ3fQ==--24c199662025fb8ecc9bdbe94c81568695e7db2574178447896eef9049c7fd04" data-refresh-url="/_alive" data-session-id="6b143602f20074f762d6e1b496174d188c56896078f0afe4776e0ba4d88b38d0">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -143,7 +143,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -234,7 +234,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="-SwisAdtT3G-_84Vvk-aTdrP51Himcu6746ffB9MqSx2yKBP9Jyqowdi52d1fhiYf9xDYmMEJHv6XncUocYyPQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="Y5UWUY2csptVHoMB-pyPR5VweE4_CFaC9WLXB_S8-9LscZSufm1XSeyDqnMxrQ2SMGPcfb6VuUPgsj9vSjZgww" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -434,7 +434,7 @@
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;G-V-Utong&quot;,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="cc671a761a9d4b7903f5425b72fa4feb92a1a44bcca9e7546c9a7e4a07f690c8" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;G-V-Utong&quot;,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="87c3756c4d3f63878851483fb3dfbdbaea847fe2979a3b198dd950040dbe6d63" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -442,7 +442,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/94043309?s=40&amp;v=4" width="20" height="20" alt="@G-V-Utong" />
       G-V-Utong
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="REQDyg4zlkB3pnbCHUAFDpHVZ2FqD8Dpw4rSDLPUjmNm7WY0P6Y5_M2kTohcKE8ISYW_WkvUjwgy5l5CirX-Gg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G3C0Y1Os0zpecp0U9HWTtMYUTmE_qRtXuP0Q0evdRjA52dGdYjl8huRwpV61HdmyHkSWWh5yVLZJkZyf0rw2SQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -479,7 +479,7 @@
 <notification-indicator
   
   class="js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTQwNDMzMDkiLCJ0IjoxNjYzODc1OTYyfQ==--21373996599c798d373a8034d90255ef4cfabb6e7d62e4851d80cfc30e511d7e"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTQwNDMzMDkiLCJ0IjoxNjYzODc1OTQ3fQ==--94a6be14e1b477ccb0d0b7064d0320f313e045b6b0170dcf16bb81b87d3123f2"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -641,7 +641,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md
+      return-to=/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c
       user-id="94043309"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1603,7 +1603,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="08803875ff468e485b287fbb87373f05548ea7da160c09bee71f2edaf12e8bbe" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="488f80a2c4f0e56bbdcc443b2731e807a9275b4edd8f16d1999f1910ca978bea" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1655,7 +1655,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xJS_KKR4Wr542785_Xk32a5fl7n2teEpBhX5L8nhFBRUYiuF_GgsHtQdsg7ZMiW-ZoF6vsX5Bfq5iht-AHxRhA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9l_ys_vgEEEnsdvfgahj7IEr6tFQtNyLb3qcW2rfmShmqWYeo_Bm4Yt31uil43GLSfUH1mP4OFjQ5X4Ko0LcuA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="468373830">
 
@@ -1773,7 +1773,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3wk-0H7e_QRJHiTrt67sqcS0LU2j33sbAAzMkIPlWGNP_6p9Js6LpOXYKdyT5f7ODGrASpCTn8i_ky7BSngd8w" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Uo17RPVZx6h89AqyoiGKTlwpaBjKr106xPer9AqsYoXCe-_prUmxCNAyB4WGapgplPeFH_njuel7aEmlwzEnFQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="468373830">
 
@@ -1920,7 +1920,7 @@
   <li>
       
   <div data-view-component="true" class="BtnGroup">
-        <a href="/Akojede70/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="0596c320464fb2dbb76e0f6aacbf8aa8bc3aecbdc755bfc609941f0b4ffbc0f5" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Akojede70/alx-low_level_programming" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/Akojede70/alx-low_level_programming/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="7f03b9e981f10c4827fb2804ebfc6884a67706244f25f6061608c04e8c4975c0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Akojede70/alx-low_level_programming" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="3" data-view-component="true" class="Counter">3</span>
@@ -1938,13 +1938,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-423cdf">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-49806d">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-423cdf"
+        id="filter-menu-49806d"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1985,18 +1985,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Akojede70/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hxH1P9juAuYikRnpWrHPe2XLOcRk1VLKdGV2KbFCimGNsz0jCzo-i52Bb-AIL2JxM9Ye-3mwOHOlc9hrnUMo_A" autocomplete="off" />
-        <input type="hidden" value="lSk6zt8HVFt99hs-rMAxcvz4jV6yINCVG0OOAqv-hCefi_LSDNNoNsLmbTf-Xpx4quWqYa9FuizKVSBAh_8mug" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Akojede70/alx-low_level_programming/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1t28uofR9rJcz2Oh9G-pn3p61Z0l9Di1_kSbpG3thkvcf3SmVAXK3-PfFaim8QSVLGfyojiRUgwvUjXmQewk1g" autocomplete="off" />
+        <input type="hidden" value="xg1yOI2DDtZ399jOSejesnBrsBsC8rTDzHl1vFBhLWrMr7okXlcyu8jnrscbdnO4JnaXJB-X3nodb9v-fGCP9w" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="61631428bb8b8063f9811395953630b7fc7384917babfce48ff1d400de58af7b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="7c63f6b09f74234e1c1da05c033e8d0cbaa68fdab596bff77f1195c665267330" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Akojede70/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-3JXdKCHiBwqaFpXCQmaOPShJPW-BUwQt2bJAwFpsKcbp_17awL42rMD-3-88MUm_tLj-lXpORbbobhJz7Geqw" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Akojede70/alx-low_level_programming/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qGFJEhuf8rBN-FOPgkiOmfaiCHoGphH7bfMigLEBkFBItOMd0BqCdtST8qc3sdGH_NHPde1KZP0BNFPKf9m-XA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="88dd43da5d20f1034a57ce876a81f7dce2cbb27fbca5d5e1cf49ac51d192e7db" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="7f39e143a31a7239953c5d898f3009c04e6154a0f8942f23e060eddb141a2c4e" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2014,13 +2014,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0eb484">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-57ea44">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-0eb484"
+        id="filter-menu-57ea44"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2211,7 +2211,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Akojede70/alx-low_level_programming/blob/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Akojede70/alx-low_level_programming/blob/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/7-leet.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2219,7 +2219,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="16b8c7207379934a4c35659c3a188b5a9fd0021d0c567e53ad8dc5bf0297a03c">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="41e5d9338a5840ed78e4b92fc2d56c746d7c9cf34f335df7eff37e8234e49f2e">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2298,7 +2298,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Akojede70/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x06-pointers_arrays_strings/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Akojede70/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x06-pointers_arrays_strings/7-leet.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2338,7 +2338,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Akojede70/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x06-pointers_arrays_strings/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Akojede70/alx-low_level_programming/blob/{{ urlEncodedRefName }}/0x06-pointers_arrays_strings/7-leet.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2369,7 +2369,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Akojede70/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Akojede70/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings"><span>0x06-pointers_arrays_strings</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Akojede70/alx-low_level_programming"><span>alx-low_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Akojede70/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings"><span>0x06-pointers_arrays_strings</span></a></span><span class="separator">/</span><strong class="final-path">7-leet.c</strong>
   </h2>
     <a href="/Akojede70/alx-low_level_programming/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2380,7 +2380,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="381c6e928fe3ba48503dcc7b21ce262d5b3df7014539c16d27eb09e7fa38ced7" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Akojede70/alx-low_level_programming/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="dbfdcd772506e38e1e7c22f56cdb67ece6ca0ec5d823665f4fdfe29a1de98aea" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Akojede70/alx-low_level_programming/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2392,13 +2392,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x06-pointers_arrays_strings/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="0x06-pointers_arrays_strings/7-leet.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Akojede70/alx-low_level_programming/blob/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Akojede70/alx-low_level_programming/blob/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/7-leet.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2430,7 +2430,7 @@
     <include-fragment src="/Akojede70/alx-low_level_programming/spoofed_commit_check/a5ff2d73ec90c2cf81ed295394f57a3a8938a940" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Akojede70/alx-low_level_programming/contributors/master/0x06-pointers_arrays_strings/README.md" class="commit-loader">
+  <include-fragment src="/Akojede70/alx-low_level_programming/contributors/master/0x06-pointers_arrays_strings/7-leet.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2464,31 +2464,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      76 lines (48 sloc)
+      29 lines (26 sloc)
       <span class="file-info-divider"></span>
-    3.34 KB
+    510 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md?plain=1" data-permalink-href="/Akojede70/alx-low_level_programming/blob/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md" data-permalink-href="/Akojede70/alx-low_level_programming/blob/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Akojede70/alx-low_level_programming/raw/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/README.md" href="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Akojede70/alx-low_level_programming/blame/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/README.md" href="/Akojede70/alx-low_level_programming/blame/master/0x06-pointers_arrays_strings/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Akojede70/alx-low_level_programming/raw/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/7-leet.c" href="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/7-leet.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Akojede70/alx-low_level_programming/blame/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/7-leet.c" href="/Akojede70/alx-low_level_programming/blame/master/0x06-pointers_arrays_strings/7-leet.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Akojede70/alx-low_level_programming/edit/master/0x06-pointers_arrays_strings/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kIQPXxcynjiZa6rIo4zIFKpRtj_cSuZ9kbnYOheol61dQGodfnx34BcXA6_FdhkenRXQ_O9FbNGT4UpLgMuKTA" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Akojede70/alx-low_level_programming/edit/master/0x06-pointers_arrays_strings/7-leet.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0BeHX2X3VpuRYGjZoXs0MKe4Mykm7KnY7grb55xvrrD3L_zNJuFxzON0ori8phA68So33LFIogR3PX8pad11wg" autocomplete="off" />
       <button title="Fork this project and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2498,7 +2490,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Akojede70/alx-low_level_programming/edit/master/0x06-pointers_arrays_strings/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="q5MgjPBjf9_SvQhJ_h0rM8h7tOTrUa6iT37Vhza4HwVmV0XOmS2WB1zBoS6Y5_o5_z_SJ9heJA5NJkf2odsC5A" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Akojede70/alx-low_level_programming/edit/master/0x06-pointers_arrays_strings/7-leet.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QpnvP0KOfyyL2fzQ8d1H0ISmSCoZvI6GyEWuwljPfM9loZStAZhYe_nNNrHsAGPa0jRM344YhVpRcgoMrX2nvQ" autocomplete="off" />
               <button title="Fork this project and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2517,10 +2509,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/7-leet.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="73b7eff6caaca5ed56bcdf9eb60a01e68829c5d0269a0a87597a8336e904d2d1" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="97ef080bdc7d46791df2f93426ad2c6ae1a74bc5b270dbf87f59098cdbb7543e" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2545,7 +2537,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Akojede70/alx-low_level_programming/delete/master/0x06-pointers_arrays_strings/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HC2KMfV1PVBgK3lRuacDIOsdeuXJhamZk6tumiwSLxzzyu1DTf96zIMp4SfQ7IkHy0fBjOa2HKpNp1-OeIfYmg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Akojede70/alx-low_level_programming/delete/master/0x06-pointers_arrays_strings/7-leet.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xxiQ7GZu0x5DjME_joFYE3-HyiU0VKmURjY6hRJ_QuwX_-UcQMi-WCeBncKUTf8DjYJRdiHj2-vU4crLSL6_2w" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2578,15 +2570,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/README.md">
+            <a class="dropdown-item" href="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/7-leet.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Akojede70/alx-low_level_programming/raw/master/0x06-pointers_arrays_strings/7-leet.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/README.md&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="73b7eff6caaca5ed56bcdf9eb60a01e68829c5d0269a0a87597a8336e904d2d1">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:468373830,&quot;originating_url&quot;:&quot;https://github.com/Akojede70/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/7-leet.c&quot;,&quot;user_id&quot;:94043309}}" data-hydro-click-hmac="97ef080bdc7d46791df2f93426ad2c6ae1a74bc5b270dbf87f59098cdbb7543e">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2609,20 +2601,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Akojede70/alx-low_level_programming/blame/master/0x06-pointers_arrays_strings/README.md">
+              <a class="dropdown-item" href="/Akojede70/alx-low_level_programming/blame/master/0x06-pointers_arrays_strings/7-leet.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Akojede70/alx-low_level_programming/edit/master/0x06-pointers_arrays_strings/README.md">Edit file</a>
+                <a class="dropdown-item" href="/Akojede70/alx-low_level_programming/edit/master/0x06-pointers_arrays_strings/7-leet.c">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:468373830,&quot;actor_id&quot;:94043309,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Akojede70/alx-low_level_programming/delete/master/0x06-pointers_arrays_strings/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Akojede70/alx-low_level_programming/delete/master/0x06-pointers_arrays_strings/7-leet.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2630,57 +2622,186 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h2 dir="auto"><a id="user-content-more-pointers-arrays-and-strings" class="anchor" aria-hidden="true" href="#more-pointers-arrays-and-strings"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>More pointers, arrays and strings</h2>
-<p dir="auto"><strong>Main.h:</strong> The file contains the prototype to each file and functions.</p>
-<p dir="auto"><strong>0-strcat.c:</strong> Writing a function that concatenates two strings, This function appends the src string to the dest string, overwriting the terminating null byte (\0) at the end of dest, and then adds a terminating null byte, also Return a pointer to the resulting string dest.</p>
-<p dir="auto"><strong>1-strncat.c:</strong> Writing a function that concatenates two strings; The _strncat function is similar to the _strcat function, except that, it will use at most n bytes from src; and src does not need to be null-terminated if it contains n or more bytes. and Return a pointer to the resulting string dest.</p>
-<p dir="auto"><strong>2-strncpy.c</strong>: Writing a function that compares two strings and Your function should work exactly like strcmp.</p>
-<p dir="auto"><strong>3-strcmp.c:</strong> Writing a function that compares two strings. and Your function should work exactly like strcmp.</p>
-<p dir="auto"><strong>4-rev_array.c:</strong> Writing a function that reverses the content of an array of integers, and Where n is the number of elements of the array.</p>
-<p dir="auto"><strong>5-string_toupper.c:</strong> Writing a function that changes all lowercase letters of a string to uppercase.</p>
-<p dir="auto"><strong>6-cap_string.c</strong>: Writing a function that capitalizes all words of a string, Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }</p>
-<p dir="auto"><strong>7-leet.c:</strong> Writing a function that encodes a string into 1337.
-Letters a and A should be replaced by 4.
-Letters e and E should be replaced by 3.
-Letters o and O should be replaced by 0.
-Letters t and T should be replaced by 7.
-Letters l and L should be replaced by 1.
-You can only use one if in your code.
-You can only use two loops in your code.
-You are not allowed to use switch.
-You are not allowed to use any ternary operation./</p>
-<p dir="auto"><strong>100-rot13.c:</strong> Writing a function that encodes a string using rot13.
-You can only use if statement once in your code.
-You can only use two loops in your code.
-You are not allowed to use switch.
-You are not allowed to use any ternary operation.</p>
-<p dir="auto"><strong>101-print_number.c:</strong> Writing a function that prints an integer.
-You can only use _putchar function to print.
-You are not allowed to use long.
-You are not allowed to use arrays or pointers.
-You are not allowed to hard-code special values.</p>
-<p dir="auto"><strong>102-magic.c:</strong></p>
-<p dir="auto"><strong>103-infinite_add.c:</strong> Writing a function that adds two numbers.
-Where n1 and n2 are the two numbers.
-r is the buffer that the function will use to store the result.
-size_r is the buffer size.
-The function returns a pointer to the result.
-You can assume that you will always get positive numbers, or 0.
-You can assume that there will be only digits in the strings n1 and n2.
-n1 and n2 will never be empty.
-If the result can not be stored in r the function must return 0.</p>
-<p dir="auto"><strong>104-print_buffer.c:</strong> Writing a function that prints a buffer.
-The function must print the content of size bytes of the buffer pointed by b.
-The output should print 10 bytes per line.
-Each line starts with the position of the first byte of the line in hexadecimal (8 chars), starting with 0.
-Each line shows the hexadecimal content (2 chars) of the buffer, 2 bytes at a time, separated by a space.
-Each line shows the content of the buffer. If the byte is a printable character, print the letter, if not, print .
-Each line ends with a new line \n.
-If size is 0 or less, the output should be a new line only \n.
-You are allowed to use the standard library.</p>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-c  gist-border-0">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="0x06-pointers_arrays_strings/7-leet.c">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>main.h<span class="pl-pds">&quot;</span></span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * leet - encodes a string into 1337</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * @s: input string.</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> * Return: the pointer to dest.</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">char</span> *<span class="pl-en">leet</span>(<span class="pl-k">char</span> *s)</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> count = <span class="pl-c1">0</span>, i;</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> low_letters[] = {<span class="pl-c1">97</span>, <span class="pl-c1">101</span>, <span class="pl-c1">111</span>, <span class="pl-c1">116</span>, <span class="pl-c1">108</span>};</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> upp_letters[] = {<span class="pl-c1">65</span>, <span class="pl-c1">69</span>, <span class="pl-c1">79</span>, <span class="pl-c1">84</span>, <span class="pl-c1">76</span>};</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">int</span> numbers[] = {<span class="pl-c1">52</span>, <span class="pl-c1">51</span>, <span class="pl-c1">48</span>, <span class="pl-c1">55</span>, <span class="pl-c1">49</span>};</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">while</span> (*(s + count) != <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-cce">\0</span><span class="pl-pds">&#39;</span></span>)</td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">	{</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">for</span> (i = <span class="pl-c1">0</span>; i &lt; <span class="pl-c1">5</span>; i++)</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">		{</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">			<span class="pl-k">if</span> (*(s + count) == low_letters[i] || *(s + count) == upp_letters[i])</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">			{</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">				*(s + count) = numbers[i];</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">				<span class="pl-k">break</span>;</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">			}</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">		}</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">		count++;</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">	}</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">return</span> (s);</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Akojede70/alx-low_level_programming/blame/a5ff2d73ec90c2cf81ed295394f57a3a8938a940/0x06-pointers_arrays_strings/7-leet.c">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Akojede70/alx-low_level_programming/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
+    </div>
 
     </div>
 
